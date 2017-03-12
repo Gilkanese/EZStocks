@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EZStocks</string>
+    <string name="userInput">Enter stock ticker</string>
+    <string name="buttonText">Search</string>
+</resources>
